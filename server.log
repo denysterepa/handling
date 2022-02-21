@@ -1,0 +1,38 @@
+[15:56:24] alt:V Server 9.5 (release)
+[15:56:24] Starting TestServer on 0.0.0.0:7788
+[15:56:24] Loading resource hedit
+[15:56:24] Loaded resource hedit
+[15:56:24] Loading resource chat
+[15:56:24] Loaded resource chat
+[15:56:24] Loading resource freeroam
+[15:56:24] Loaded resource freeroam
+[15:56:24] Loading resource example
+[15:56:24] Hello from server
+[15:56:24] Loaded resource example
+[15:56:24] Required server permissions:
+[15:56:24] Optional server permissions:
+[15:56:24] Starting HTTP server on 0.0.0.0:7788
+[15:56:24] Main thread started (ThreadId: 3460)
+[15:56:24] Colshape thread started (ThreadId: 8116)
+[15:56:24] EntityStreamer thread started (ThreadId: 27008)
+[15:56:24] Sync thread started (ThreadId: 18876)
+[15:56:24] Network thread started (ThreadId: 16080)
+[15:56:24] Console thread started (ThreadId: 7900)
+[15:56:24][Warning] Server started in debug mode
+[15:56:41] [chat:cmd] Zhorik: /ved ahher
+[15:56:48] [chat:cmd] Zhorik: /veh adder
+[15:59:42] Zhorik gave Zhorik the rest!
+[15:59:42][Error] [V8] Exception at example:file:///C:/Users/Den/Desktop/myServer/resources/example/server/startup.js:23
+[15:59:42][Error]       if (deadPlayers[player.id]) {
+[15:59:42][Error]   ReferenceError: deadPlayers is not defined
+    at handleDeath (file:///C:/Users/Den/Desktop/myServer/resources/example/server/startup.js:23:5)
+[16:00:18] Zhorik has leaved the server becauseof timed out
+[16:00:21] Stopping resource chat
+[16:00:21] Stopping resource freeroam
+[16:00:21] Stopped resource freeroam
+[16:00:21] Stopped resource chat
+[16:00:21] Stopping resource hedit
+[16:00:21] Stopped resource hedit
+[16:00:21] Stopping resource example
+[16:00:21] Stopped resource example
+[16:00:21] Server shutdown
